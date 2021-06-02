@@ -5,4 +5,4 @@ This allows you to set tasks for the day and highlight with colors to show if th
 https://bobswiftfoot.github.io/work-day-scheduler/
 
 # Screenshot of page
-![Full Page Screenshot](/images/full-page-screenshot.png?raw=true)
+![Full Page Screenshot](/assets/images/full-page-screenshot.png?raw=true)
